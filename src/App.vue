@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './pages/HelloWorld.vue'
 
 export default {
   name: 'App',
