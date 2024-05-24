@@ -34,6 +34,12 @@
           fill="#6B6B6B"
         />
       </svg>
+      <v-avatar>
+        <v-img
+          alt="John"
+          src="https://cdn.vuetifyjs.com/images/john.jpg"
+        ></v-img>
+      </v-avatar>
     </v-app-bar>
 
     <v-main
